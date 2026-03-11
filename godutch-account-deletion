@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Go Dutch Account Deletion</title>
+<style>
+  body, h1, h2, p, ul, li { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Segoe UI', Arial, sans-serif; background: #fff; color: #333; line-height: 1.6; }
+  
+  .container { max-width: 800px; margin: 0 auto; padding: 20px; }
+  
+  header { text-align: center; padding: 40px 20px; background-color: #F35D5D; color: #fff; }
+  header h1 { font-size: 2em; margin-bottom: 10px; }
+  header p { font-size: 1em; }
+  
+  h2 { color: #F35D5D; margin: 20px 0 10px; font-size: 1.4em; }
+  
+  ul, ol { margin-left: 20px; margin-bottom: 10px; }
+  p { margin-bottom: 10px; }
+  
+  footer { text-align: center; margin-top: 50px; font-size: 0.9em; color: #555; }
+  
+  @media (max-width: 600px) {
+    header h1 { font-size: 1.6em; }
+    header p { font-size: 0.9em; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Go Dutch Account Deletion</h1>
+  <p>Effective Date: 7 March 2026</p>
+</header>
+
+<div class="container">
+  <p>We respect your right to delete your account at any time. The following instructions explain how to permanently remove your account and all associated personal data.</p>
+
+  <h2>Steps to Delete Your Account</h2>
+  <ol>
+    <li>Open the Go Dutch app and log in to your account.</li>
+    <li>Go to the Menu via the bottom navigation bar.</li>
+    <li>Scroll to the bottom and select <strong>Delete Account</strong>.</li>
+    <li>Re-authenticate if prompted (for security purposes).</li>
+    <li>Confirm deletion. Your account and all personal data will be permanently removed.</li>
+  </ol>
+
+  <p>After deletion, your personal information including your name, email address, and profile photo will no longer be accessible. Please note that this action is irreversible.</p>
+
+  <h2>Need Assistance?</h2>
+  <p>If you face any issues deleting your account, please contact us at: <a href="mailto:admin@bistudio.org">admin@bistudio.org</a></p>
+</div>
+
+<footer>
+  &copy; 2026 BiStudio | Go Dutch
+</footer>
+
+</body>
+</html>
